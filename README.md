@@ -25,6 +25,7 @@ store-sales-forecasting/
 ├── requirements.txt        # Dependencies
 ├── README.md               # Project overview
 └── .gitignore
+```
 
 
 ## 📊 Tools & Libraries
